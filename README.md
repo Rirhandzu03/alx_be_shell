@@ -1,1 +1,3 @@
-# alx_be_shell
+#Shell Permissions
+## 0-iam_betty
+This script switches the current user to the `betty` user.
