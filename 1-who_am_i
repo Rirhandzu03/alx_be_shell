@@ -1,2 +1,2 @@
 #!/bin/bash
-su Who_am_I
+su whoami
